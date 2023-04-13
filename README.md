@@ -1,7 +1,7 @@
 # Getting started with Django-Project
 This project is about learning: 
 1. Requests &amp; Responses
-2. Models &amd; Admin site
+2. Models &amp; Admin site
 3. Views &amp; Templates
 
 ## Pre-requisites 
