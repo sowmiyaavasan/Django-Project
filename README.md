@@ -3,6 +3,7 @@ This project is about learning:
 1. Requests &amp; Responses
 2. Models &amp; Admin site
 3. Views &amp; Templates
+4. Form &amp; Generic View
 
 ## Pre-requisites 
 - Download and install Python and Django - ```https://docs.djangoproject.com/en/4.1/topics/install/``` 
